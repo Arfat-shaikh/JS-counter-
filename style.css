@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    text-align: center;
+    margin-top: 12%;
+}
+.heaading{
+   margin-bottom: 20px;
+   color: blue;
+}
+
+.count {
+    margin-bottom: 20px;
+    font-size: 3rem;
+}
+
+.change-by{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.minus-btn{
+    margin-right: 16px;
+    font-size: 15px;
+    padding: 8px 14px;
+    background-color: aqua;
+    border-radius: 20%;
+}
+.plus-btn{
+    font-size: 15px;
+    padding: 8px 12px;
+    background-color: aqua;
+    border-radius: 20%;
+}
+.change-by{
+    font-size: 1.2rem;
+}
+.change-by input{
+ font-size: small;
+ padding: 2px;
+ width:5rem;
+ height: 2rem;
+}
+
+.reset{
+    padding: 6px 10px;
+    background-color: aqua;
+    border-radius: 20%;
+}
